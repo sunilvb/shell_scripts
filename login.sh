@@ -1,0 +1,1 @@
+ssh -i kafka-billing.pem ec2-user@ec2-54-191-16-45.us-west-2.compute.amazonaws.com

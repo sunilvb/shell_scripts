@@ -1,0 +1,1 @@
+ssh -i "Private_Subnet1.pem" ec2-user@10.0.1.250
